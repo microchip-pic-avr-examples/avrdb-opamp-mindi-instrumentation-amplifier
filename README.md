@@ -1,4 +1,4 @@
-# Getting started with Mindi® simulation and AVR®DB microcontrollers
+# Getting started with Mindi™ simulation and AVR®DB microcontrollers
 This guide will get you up and running with simulating the analog OPAMP module in AVR DB family devices using the Mindi simulation tool.
 ## Configuration: Instrumentation Amplifier
 The Instrumentation Amplifier op amp configuration amplifies a voltage across the input with high input impedance and presents it as a single-ended output voltage. The amplification can be configured by setting the feedback dividers.
