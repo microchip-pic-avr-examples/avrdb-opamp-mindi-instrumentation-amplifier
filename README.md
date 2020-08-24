@@ -1,3 +1,4 @@
+![Microchip logo](images/microchip.png)
 # Getting started with Mindi™ simulation and AVR®DB microcontrollers
 This guide will get you up and running with simulating the analog OPAMP module in AVR DB family devices using the Mindi simulation tool.
 ## Configuration: Instrumentation Amplifier
