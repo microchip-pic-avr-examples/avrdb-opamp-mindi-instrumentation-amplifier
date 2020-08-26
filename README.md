@@ -9,7 +9,7 @@ The Instrumentation Amplifier op amp configuration amplifies a voltage across th
 ### Mindi Simulation
 ![Mindi](images/mplab-mindi-analog-simulator.png)
 
-Download and open the **Mindi schematic [here](schematics/)**
+Download and open the **Mindi schematic [here](https://github.com/microchip-pic-avr-examples/avrdb-opamp-mindi-instrumentation-amplifier/releases/latest)**
 
 Press the _play_ button to simulate with an example stimulus source.
 
